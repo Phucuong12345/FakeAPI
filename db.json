@@ -1,13 +1,11 @@
 {
-  "userData": 
-  [
+  "posts": [
     {
-      name: "Phu Cuong",
-      age: 18
-    },
-    {
-      name: "user",
-      age: 11
+      "id": 1,
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
