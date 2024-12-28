@@ -1,7 +1,12 @@
 {
-  [
+  "users": [
     {
-        name: 'cuong'
+      name: 'phucuong',
+      age: 18
+    },
+    {
+      name: 'user'
+      age: 11
     }
   ]
 }
