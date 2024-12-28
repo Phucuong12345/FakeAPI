@@ -180,47 +180,5 @@
     "id": "I6QQHAEGV4CYDXLP",
     "bio": "Nam laoreet, nunc non suscipit interdum, justo turpis vestibulum massa, non vulputate ex urna at purus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Etiam consequat enim lorem, at tincidunt velit ultricies et. Nulla finibus massa at viverra facilisis.",
     "version": 8.56
-  },
-  {
-    "name": "John Falzon",
-    "language": "Maltese",
-    "id": "U3AWXHDTSU0H82SL",
-    "bio": "Sed nec suscipit ligula. Nullam sodales convallis mauris, sit amet lobortis magna auctor sit amet.",
-    "version": 9.96
-  },
-  {
-    "name": "Erkin Qadir",
-    "language": "Uyghur",
-    "id": "GV6TA1AATZYBJ3VR",
-    "bio": "Phasellus massa ligula, hendrerit eget efficitur eget, tincidunt in ligula. .",
-    "version": 3.53
-  },
-  {
-    "name": "Anita Rajput",
-    "language": "Sindhi",
-    "id": "XLLVD0NO2ZFEP4AK",
-    "bio": "Nam semper gravida nunc, sit amet elementum ipsum. Etiam congue dignissim volutpat.",
-    "version": 5.16
-  },
-  {
-    "name": "Ayesha Khalique",
-    "language": "Sindhi",
-    "id": "Q9A5QNGA0OSU8P6Y",
-    "bio": "Morbi vitae nisi lacinia, laoreet lorem nec, egestas orci. Etiam mauris magna, fermentum vitae aliquet eu, cursus vitae sapien.",
-    "version": 3.9
-  },
-  {
-    "name": "Pheladi Rammala",
-    "language": "Sesotho sa Leboa",
-    "id": "EELSIRT2T4Q0M3M4",
-    "bio": "Quisque efficitur vel sapien ut imperdiet. Morbi ac tellus erat. Aliquam scelerisque pretium tellus, sed accumsan est ultrices id. Ut maximus, libero nec facilisis fringilla, ex sem sollicitudin leo, non congue tortor ligula in eros.",
-    "version": 1.88
-  },
-  {
-    "name": "Antón Caneiro",
-    "language": "Galician",
-    "id": "ENTAPNU3MMFUGM1W",
-    "bio": "Integer vehicula, arcu sit amet egestas efficitur, orci justo interdum massa, eget ullamcorper risus ligula tristique libero. Vestibulum pharetra libero et velit gravida euismod.",
-    "version": 4.84
   }
 ]
