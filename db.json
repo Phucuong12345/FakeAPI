@@ -1,11 +1,11 @@
 {
   "users": [
     {
-      name: 'phucuong',
+      name: "phucuong",
       age: 18
     },
     {
-      name: 'user'
+      name: "user",
       age: 11
     }
   ]
