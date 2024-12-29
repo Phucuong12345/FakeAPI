@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Vo Phu Cuong"
+    },
+    {
+      "id": 2,
+      "name": "Tom Cruise"
+    },
+    {
+      "id": 3,
+      "name": "Leo"
+    },
+    {
+      "id": 4,
+      "name": "Michael"
+    },
+    {
+      "id": 5,
+      "name": "Michael"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
